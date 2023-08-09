@@ -1,0 +1,5 @@
+Employee ID: 104
+Employee Name: Mayuri
+
+Employee position: Trainee
+Employee Salary: 20000
